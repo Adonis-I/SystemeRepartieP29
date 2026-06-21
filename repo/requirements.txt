@@ -1,0 +1,11 @@
+# Bibliothèques nécessaires au TP.
+#
+# ATTENTION GPU NVIDIA : un simple "pip install torch" peut installer une version CPU-only.
+# Pour le support CUDA, suivez INSTALLATION.md section B (commande depuis pytorch.org).
+#
+# Sur Google Colab : rien à installer, tout est déjà présent.
+
+torch
+pandas
+matplotlib
+jupyter
